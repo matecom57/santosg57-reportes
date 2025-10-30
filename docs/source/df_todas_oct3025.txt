@@ -1,0 +1,1109 @@
+------------------------------------------------
+172.24.220.87
+------------------------------------------------
+172.24.220.91
+jasper
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           6.3G  2.8M  6.3G   1% /run
+/dev/nvme0n1p2  110G   38G   67G  37% /
+tmpfs            32G     0   32G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        438K  356K   78K  83% /sys/firmware/efi/efivars
+/dev/nvme0n1p3   92G  648K   87G   1% /tmp
+/dev/sda1       7.3T  775G  6.1T  12% /datos/jasper
+/dev/nvme0n1p1  509M  6.1M  503M   2% /boot/efi
+tmpfs           6.3G   88K  6.3G   1% /run/user/1009
+hahn:/inbssd    3.7T  3.1T  563G  85% /home/inb
+tmpfs           6.3G  156K  6.3G   1% /run/user/1095
+tmpfs           6.3G   88K  6.3G   1% /run/user/1010
+tmpfs           6.3G  212K  6.3G   1% /run/user/1349
+tmpfs           6.3G  104K  6.3G   1% /run/user/128
+tmpfs           6.3G   92K  6.3G   1% /run/user/1028
+------------------------------------------------
+172.24.220.93
+cannabis
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           6.3G  2.2M  6.3G   1% /run
+/dev/nvme0n1p2  110G   88G   17G  85% /
+tmpfs            32G     0   32G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        256K  124K  128K  50% /sys/firmware/efi/efivars
+/dev/nvme0n1p5  3.5T  969G  2.4T  29% /datos/cannabis1
+/dev/nvme0n1p1  509M  6.1M  503M   2% /boot/efi
+/dev/sda1       3.6T  924G  2.5T  27% /datos/cannabis2
+/dev/nvme0n1p3   82G  228K   78G   1% /tmp
+hahn:/inbssd    3.7T  3.1T  563G  85% /home/inb
+tmpfs           6.3G  104K  6.3G   1% /run/user/128
+tmpfs           6.3G   92K  6.3G   1% /run/user/1028
+------------------------------------------------
+172.24.220.94
+claustrum
+Filesystem               Size  Used Avail Use% Mounted on
+tmpfs                    2.4G  2.8M  2.4G   1% /run
+/dev/sda2                 64G   54G  6.8G  89% /
+tmpfs                     12G  1.5M   12G   1% /dev/shm
+tmpfs                    5.0M  8.0K  5.0M   1% /run/lock
+/dev/sdb1                3.6T  3.4T     0 100% /datos/claustrum
+/dev/sda1                509M  6.1M  503M   2% /boot/efi
+/dev/sda4                375G   38M  356G   1% /tmp
+tmpfs                    2.4G   92K  2.4G   1% /run/user/1052
+tmpfs                    2.4G  216K  2.4G   1% /run/user/1095
+tmpfs                    2.4G  132K  2.4G   1% /run/user/1110
+tmpfs                    2.4G   88K  2.4G   1% /run/user/1289
+tmpfs                    2.4G   88K  2.4G   1% /run/user/1044
+tmpfs                    2.4G   92K  2.4G   1% /run/user/1000
+tmpfs                    2.4G  220K  2.4G   1% /run/user/1045
+charcot:/datos/charcot2  3.6T  3.2T  240G  94% /misc/charcot2
+hahn:/inbssd             3.7T  3.1T  563G  85% /home/inb
+charcot:/datos/charcot3  1.8T  1.7T   11G 100% /misc/charcot3
+tmpfs                    2.4G  220K  2.4G   1% /run/user/1254
+moca:/datos/moca2        7.3T  2.8T  4.2T  40% /misc/moca2
+tmpfs                    2.4G  1.3M  2.4G   1% /run/user/1330
+moca:/datos/moca1        1.7T  1.3T  360G  78% /misc/moca1
+tmpfs                    2.4G   88K  2.4G   1% /run/user/1012
+tmpfs                    2.4G   88K  2.4G   1% /run/user/1136
+tmpfs                    2.4G   88K  2.4G   1% /run/user/1028
+------------------------------------------------
+172.24.220.95
+arwen
+Filesystem         Size  Used Avail Use% Mounted on
+tmpfs              3.2G  3.2M  3.2G   1% /run
+/dev/sdc2           64G   54G  6.4G  90% /
+tmpfs               16G  314M   16G   2% /dev/shm
+tmpfs              5.0M  8.0K  5.0M   1% /run/lock
+efivarfs           128K  114K  9.7K  93% /sys/firmware/efi/efivars
+/dev/sda1          909G  824G   40G  96% /datos/arwen
+/dev/sdc1          509M  6.1M  503M   2% /boot/efi
+/dev/sdc4          137G   88G   42G  68% /tmp
+/dev/sdb1          7.3T  7.2T     0 100% /datos/HCP
+tmpfs              3.2G   88K  3.2G   1% /run/user/1223
+hahn:/inbssd       3.7T  3.1T  563G  85% /home/inb
+tmpfs              3.2G  9.9M  3.2G   1% /run/user/1334
+tmpfs              3.2G  552K  3.2G   1% /run/user/1340
+tmpfs              3.2G  108K  3.2G   1% /run/user/127
+tmpfs              3.2G  244K  3.2G   1% /run/user/1321
+moca:/datos/moca1  1.7T  1.3T  360G  78% /misc/moca1
+tmpfs              3.2G  252K  3.2G   1% /run/user/1254
+moca:/datos/moca2  7.3T  2.8T  4.2T  40% /misc/moca2
+tmpfs              3.2G   88K  3.2G   1% /run/user/1028
+------------------------------------------------
+172.24.220.96
+charcot
+Filesystem                 Size  Used Avail Use% Mounted on
+tmpfs                      5.9G  3.8M  5.9G   1% /run
+/dev/sda2                  110G   95G  9.5G  91% /
+tmpfs                       30G  4.2M   30G   1% /dev/shm
+tmpfs                      5.0M  8.0K  5.0M   1% /run/lock
+/dev/sdc1                  3.6T  3.2T  240G  94% /datos/charcot2
+/dev/sdd1                  1.8T  1.7T   11G 100% /datos/charcot3
+/dev/sdb1                  3.6T  3.3T  121G  97% /datos/charcot
+/dev/sda1                  509M  6.1M  503M   2% /boot/efi
+/dev/sda4                  183G  7.0M  173G   1% /tmp
+hahn:/inbssd               3.7T  3.1T  563G  85% /home/inb
+tmpfs                      5.9G   92K  5.9G   1% /run/user/1249
+tmpfs                      5.9G   92K  5.9G   1% /run/user/1028
+tmpfs                      5.9G   92K  5.9G   1% /run/user/1171
+tmpfs                      5.9G   92K  5.9G   1% /run/user/1083
+tmpfs                      5.9G   92K  5.9G   1% /run/user/1045
+tmpfs                      5.9G  1.6M  5.9G   1% /run/user/1330
+moca:/datos/moca1          1.7T  1.3T  360G  78% /misc/moca1
+austin:/datos/austin       7.3T  2.7T  4.3T  38% /misc/austin
+cannabis:/datos/cannabis2  3.6T  924G  2.5T  27% /misc/cannabis2
+tmpfs                      5.9G  296K  5.9G   1% /run/user/1286
+tmpfs                      5.9G   92K  5.9G   1% /run/user/1143
+tmpfs                      5.9G  236K  5.9G   1% /run/user/1180
+------------------------------------------------
+172.24.220.97
+euler
+Filesystem                        Size  Used Avail Use% Mounted on
+tmpfs                             3.2G  2.5M  3.2G   1% /run
+/dev/sda2                          46G   38G  6.1G  86% /
+tmpfs                              16G  2.1M   16G   1% /dev/shm
+tmpfs                             5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                          256K   64K  188K  26% /sys/firmware/efi/efivars
+/dev/sda1                         508M  6.1M  502M   2% /boot/efi
+/dev/sda3                          69G   11M   65G   1% /tmp
+/dev/sda5                         3.5T  2.8T  493G  86% /datos/euler
+hahn:/inbssd                      3.7T  3.1T  563G  85% /home/inb
+tmpfs                             3.2G   72K  3.2G   1% /run/user/1168
+tmpfs                             3.2G  3.6M  3.2G   1% /run/user/1330
+moca:/datos/moca1                 1.7T  1.3T  360G  78% /misc/moca1
+tmpfs                             3.2G   72K  3.2G   1% /run/user/1028
+ogawa:/datos/ogawa                440G  413G  4.5G  99% /misc/ogawa
+ogawa:/datos/ogawa2               469G  231G  214G  52% /misc/ogawa2
+lauterbur:/datos/lauterbur2       5.5T  2.0T  3.2T  39% /misc/lauterbur2
+ogawa:/datos/ogawa3               469G  380G   65G  86% /misc/ogawa3
+fourier:/datos/fourier            917G  639G  232G  74% /misc/fourier
+arwen:/datos/arwen                909G  824G   40G  96% /misc/arwen
+cajal:/datos/cajal                916G   66G  804G   8% /misc/cajal
+copula:/datos/copula              7.3T  420G  6.5T   6% /misc/copula
+fourier:/datos/fourier2           1.8T  773G  968G  45% /misc/fourier2
+goddard:/datos/goddard            916G  856G   15G  99% /misc/goddard
+jasper:/datos/jasper              7.3T  775G  6.1T  12% /misc/jasper
+rhesus:/datos/rhesus              1.4T  1.2T  168G  88% /misc/rhesus
+sherrington:/datos/sherrington    1.8T  1.1T  645G  63% /misc/sherrington
+tmpfs                             3.2G  228K  3.2G   1% /run/user/1254
+moca:/datos/moca2                 7.3T  2.8T  4.2T  40% /misc/moca2
+faraday:/datos/faraday2           5.5T  3.9T  1.3T  76% /misc/faraday2
+giora:/datos/giora2               1.8T  1.6T  167G  91% /misc/giora2
+sherrington:/datos/sherrington2   1.8T  1.7T     0 100% /misc/sherrington2
+echinocactus:/datos/echinocactus  7.3T  116G  6.8T   2% /misc/echinocactus
+ernst:/datos/ernst                1.8T  1.7T  122M 100% /misc/ernst
+hanger:/datos/hanger2             5.5T 1001M  5.2T   1% /misc/hanger2
+geminis:/datos/geminis2           3.6T  3.2T  244G  94% /misc/geminis2
+gauss:/datos/gauss                1.8T  1.3T  489G  72% /misc/gauss
+maxwell:/datos/maxwell2           1.8T  178G  1.6T  11% /misc/maxwell2
+maxwell:/datos/maxwell            1.8T  1.7T   37G  98% /misc/maxwell
+claustrum:/datos/claustrum        3.6T  3.4T     0 100% /misc/claustrum
+echinopsis:/datos/echinopsis2     7.3T  664G  6.3T  10% /misc/echinopsis2
+tournoux:/datos/tournoux          1.8T  1.7T   32G  99% /misc/tournoux
+giora:/datos/giora                7.3T  5.9T  1.1T  85% /misc/giora
+mansfield:/datos/mansfield2       2.7T   33G  2.6T   2% /misc/mansfield2
+larmor:/datos/larmor              5.5T  2.2T  3.0T  42% /misc/larmor
+tournoux:/datos/tournoux2         3.6T  3.4T   29G 100% /misc/tournoux2
+faraday:/datos/faraday            1.8T  1.3T  405G  77% /misc/faraday
+charcot:/datos/charcot2           3.6T  3.2T  240G  94% /misc/charcot2
+larmor:/datos/larmor2             476G  100G  352G  23% /misc/larmor2
+ridelim:/datos/ridelim            916G  746G  125G  86% /misc/ridelim
+charcot:/datos/charcot3           1.8T  1.7T   11G 100% /misc/charcot3
+opuntia:/datos/opuntia            1.7T  214G  1.4T  14% /misc/opuntia
+decker:/datos/decker2             5.5T   32K  5.2T   1% /misc/decker2
+ernst:/datos/ernst2               3.6T  492G  3.0T  15% /misc/ernst2
+charcot:/datos/charcot            3.6T  3.3T  121G  97% /misc/charcot
+------------------------------------------------
+172.24.220.98
+geminis
+Filesystem                 Size  Used Avail Use% Mounted on
+tmpfs                      6.3G  2.5M  6.3G   1% /run
+/dev/nvme0n1p2              64G   55G  5.9G  91% /
+tmpfs                       32G  149M   32G   1% /dev/shm
+tmpfs                      5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                   256K   33K  219K  14% /sys/firmware/efi/efivars
+/dev/nvme0n1p1             509M  6.1M  503M   2% /boot/efi
+/dev/nvme0n1p4             386G   19M  366G   1% /tmp
+/dev/sda1                  1.8T  1.7T   46G  98% /misc/geminis
+/dev/sdb1                  3.6T  3.2T  244G  94% /misc/geminis2
+hahn:/inbssd               3.7T  3.1T  563G  85% /home/inb
+tmpfs                      6.3G   88K  6.3G   1% /run/user/1028
+tmpfs                      6.3G   88K  6.3G   1% /run/user/1083
+tmpfs                      6.3G   88K  6.3G   1% /run/user/1135
+tmpfs                      6.3G   88K  6.3G   1% /run/user/1180
+tmpfs                      6.3G   88K  6.3G   1% /run/user/1256
+tmpfs                      6.3G   88K  6.3G   1% /run/user/1282
+tmpfs                      6.3G  484K  6.3G   1% /run/user/1174
+cannabis:/datos/cannabis2  3.6T  924G  2.5T  27% /misc/cannabis2
+tmpfs                      6.3G   88K  6.3G   1% /run/user/65534
+------------------------------------------------
+172.24.220.101
+tournoux
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           6.3G  2.2M  6.3G   1% /run
+/dev/sda2       110G   89G   16G  86% /
+tmpfs            32G     0   32G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        256K   33K  219K  13% /sys/firmware/efi/efivars
+/dev/sda1       509M  6.1M  503M   2% /boot/efi
+/dev/sda3        92G  208K   87G   1% /tmp
+/dev/sdc1       3.6T  3.4T   29G 100% /datos/tournoux2
+/dev/sdb1       1.8T  1.7T   32G  99% /datos/tournoux
+hahn:/inbssd    3.7T  3.1T  563G  85% /home/inb
+tmpfs           6.3G   88K  6.3G   1% /run/user/1045
+tmpfs           6.3G   88K  6.3G   1% /run/user/1028
+tmpfs           6.3G   88K  6.3G   1% /run/user/1339
+tmpfs           6.3G  172K  6.3G   1% /run/user/1349
+------------------------------------------------
+172.24.220.102
+moca
+Filesystem                 Size  Used Avail Use% Mounted on
+tmpfs                      6.3G  3.4M  6.3G   1% /run
+/dev/nvme0n1p2              92G   79G  8.3G  91% /
+tmpfs                       32G  215M   32G   1% /dev/shm
+tmpfs                      5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                   192K  153K   35K  82% /sys/firmware/efi/efivars
+/dev/nvme0n1p3              92G   11G   76G  13% /tmp
+/dev/nvme0n1p5             1.7T  1.3T  360G  78% /misc/moca1
+/dev/nvme0n1p1             509M  6.1M  503M   2% /boot/efi
+/dev/sda1                  7.3T  2.8T  4.2T  40% /misc/moca2
+hahn:/inbssd               3.7T  3.1T  563G  85% /home/inb
+tmpfs                      6.3G   92K  6.3G   1% /run/user/1256
+tmpfs                      6.3G   92K  6.3G   1% /run/user/1293
+tmpfs                      6.3G  272K  6.3G   1% /run/user/1254
+tmpfs                      6.3G  1.5M  6.3G   1% /run/user/1330
+tmpfs                      6.3G  404K  6.3G   1% /run/user/1307
+tmpfs                      6.3G   96K  6.3G   1% /run/user/1028
+tournoux:/datos/tournoux2  3.6T  3.4T   29G 100% /misc/tournoux2
+charcot:/datos/charcot     3.6T  3.3T  121G  97% /misc/charcot
+------------------------------------------------
+172.24.220.111
+fourier
+Filesystem                   Size  Used Avail Use% Mounted on
+tmpfs                        3.2G  2.2M  3.2G   1% /run
+/dev/nvme0n1p2               468G  389G   56G  88% /
+tmpfs                         16G  1.8M   16G   1% /dev/shm
+tmpfs                        5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                     150K   68K   78K  47% /sys/firmware/efi/efivars
+/dev/nvme0n1p1               511M  6.1M  505M   2% /boot/efi
+/dev/sda1                    1.8T  773G  968G  45% /datos/fourier2
+/dev/sdb1                    917G  639G  232G  74% /datos/fourier
+hahn:/inbssd                 3.7T  3.1T  563G  85% /home/inb
+tmpfs                        3.2G   88K  3.2G   1% /run/user/1018
+rhesus:/datos/rhesus         1.4T  1.2T  168G  88% /misc/rhesus
+tmpfs                        3.2G  104K  3.2G   1% /run/user/127
+cajal:/datos/cajal           916G   66G  804G   8% /misc/cajal
+decker:/datos/decker2        5.5T   32K  5.2T   1% /misc/decker2
+dorrance:/datos/dorrance2    5.5T   40K  5.2T   1% /misc/dorrance2
+jasper:/datos/jasper         7.3T  775G  6.1T  12% /misc/jasper
+lauterbur:/datos/lauterbur2  5.5T  2.0T  3.2T  39% /misc/lauterbur2
+ogawa:/datos/ogawa           440G  413G  4.5G  99% /misc/ogawa
+tmpfs                        3.2G   92K  3.2G   1% /run/user/1028
+------------------------------------------------
+172.24.220.113
+penfield
+Filesystem                     Size  Used Avail Use% Mounted on
+tmpfs                          3.2G  3.4M  3.2G   1% /run
+/dev/sda2                       69G   57G  8.3G  88% /
+tmpfs                           16G   10M   16G   1% /dev/shm
+tmpfs                          5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                       128K   61K   63K  50% /sys/firmware/efi/efivars
+/dev/sda1                       47M  6.1M   41M  14% /boot/efi
+/dev/sda4                      136G  430M  129G   1% /tmp
+/dev/sdb                       1.8T  1.3T  477G  73% /datos/penfield
+tmpfs                          3.2G  188K  3.2G   1% /run/user/1298
+tmpfs                          3.2G  104K  3.2G   1% /run/user/127
+tmpfs                          3.2G  200K  3.2G   1% /run/user/1212
+echinopsis:/datos/echinopsis2  7.3T  664G  6.3T  10% /misc/echinopsis2
+tmpfs                          3.2G   96K  3.2G   1% /run/user/1220
+tmpfs                          3.2G   88K  3.2G   1% /run/user/1045
+tmpfs                          3.2G  100K  3.2G   1% /run/user/1287
+tmpfs                          3.2G   88K  3.2G   1% /run/user/1180
+tmpfs                          3.2G  132K  3.2G   1% /run/user/1000
+hahn:/inbssd                   3.7T  3.1T  563G  85% /home/inb
+tmpfs                          3.2G   92K  3.2G   1% /run/user/1331
+tmpfs                          3.2G  132K  3.2G   1% /run/user/1307
+tmpfs                          3.2G   96K  3.2G   1% /run/user/1052
+tmpfs                          3.2G   92K  3.2G   1% /run/user/1253
+tmpfs                          3.2G  124K  3.2G   1% /run/user/1332
+tmpfs                          3.2G   88K  3.2G   1% /run/user/1009
+moca:/datos/moca1              1.7T  1.3T  360G  78% /misc/moca1
+tmpfs                          3.2G   88K  3.2G   1% /run/user/1293
+tmpfs                          3.2G   88K  3.2G   1% /run/user/1299
+tmpfs                          3.2G   88K  3.2G   1% /run/user/1264
+tmpfs                          3.2G   88K  3.2G   1% /run/user/1244
+tmpfs                          3.2G   88K  3.2G   1% /run/user/1313
+tmpfs                          3.2G   92K  3.2G   1% /run/user/1235
+tmpfs                          3.2G  156K  3.2G   1% /run/user/1257
+tmpfs                          3.2G   92K  3.2G   1% /run/user/1336
+tmpfs                          3.2G   88K  3.2G   1% /run/user/1054
+tmpfs                          3.2G   88K  3.2G   1% /run/user/1338
+tmpfs                          3.2G   92K  3.2G   1% /run/user/1250
+copula2:/datos/copula2         7.3T  614G  6.3T   9% /misc/copula2
+tmpfs                          3.2G   88K  3.2G   1% /run/user/1304
+tmpfs                          3.2G   92K  3.2G   1% /run/user/1284
+giora:/datos/giora             7.3T  5.9T  1.1T  85% /misc/giora
+larmor:/datos/larmor           5.5T  2.2T  3.0T  42% /misc/larmor
+tmpfs                          3.2G   88K  3.2G   1% /run/user/1012
+tmpfs                          3.2G   88K  3.2G   1% /run/user/1136
+claustrum:/datos/claustrum     3.6T  3.4T     0 100% /misc/claustrum
+tmpfs                          3.2G   92K  3.2G   1% /run/user/1345
+hanger:/datos/hanger2          5.5T 1001M  5.2T   1% /misc/hanger2
+tmpfs                          3.2G   88K  3.2G   1% /run/user/1028
+------------------------------------------------
+172.24.220.114
+lauterbur
+Filesystem                       Size  Used Avail Use% Mounted on
+tmpfs                            6.3G  2.6M  6.3G   1% /run
+/dev/sdb3                        117G  100G   12G  90% /
+tmpfs                             32G  405M   31G   2% /dev/shm
+tmpfs                            5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                         256K  128K  124K  51% /sys/firmware/efi/efivars
+/dev/sda1                        5.5T  2.0T  3.2T  39% /misc/lauterbur2
+/dev/sdb1                        952M  6.1M  946M   1% /boot/efi
+/dev/sdb4                         87G  414M   82G   1% /tmp
+hahn:/inbssd                     3.7T  3.1T  563G  85% /home/inb
+tmpfs                            6.3G  1.7M  6.3G   1% /run/user/1000
+mansfield:/datos/mansfield       3.6T  3.3T  130G  97% /misc/mansfield
+sherrington:/datos/sherrington2  1.8T  1.7T     0 100% /misc/sherrington2
+nyquist:/datos/nyquist2          2.7T  1.4T  1.3T  52% /misc/nyquist2
+tmpfs                            6.3G  104K  6.3G   1% /run/user/1028
+------------------------------------------------
+172.24.220.115
+------------------------------------------------
+172.24.220.116
+tesla
+Filesystem                        Size  Used Avail Use% Mounted on
+tmpfs                             1.6G  2.3M  1.6G   1% /run
+/dev/sdd2                         114G   95G   13G  88% /
+tmpfs                             7.7G  3.3M  7.7G   1% /dev/shm
+tmpfs                             5.0M  4.0K  5.0M   1% /run/lock
+efivarfs                          496K  116K  375K  24% /sys/firmware/efi/efivars
+/dev/sdd1                         120M  6.1M  114M   6% /boot/efi
+/dev/sdd4                          92G   15G   73G  18% /tmp
+/dev/sda                          9.1T  5.5T  3.1T  65% /datos/tesla1
+/dev/sdc                          9.1T  6.0T  2.7T  69% /datos/tesla3
+/dev/sdb                          9.1T  8.1T  537G  94% /datos/tesla2
+tmpfs                             1.6G  100K  1.6G   1% /run/user/1044
+tmpfs                             1.6G  108K  1.6G   1% /run/user/128
+larmor:/datos/larmor              5.5T  2.2T  3.0T  42% /misc/larmor
+hahn:/inbssd                      3.7T  3.1T  563G  85% /home/inb
+tmpfs                             1.6G  124K  1.6G   1% /run/user/1332
+tmpfs                             1.6G   88K  1.6G   1% /run/user/1308
+echinocactus:/datos/echinocactus  7.3T  116G  6.8T   2% /misc/echinocactus
+ernst:/datos/ernst2               3.6T  492G  3.0T  15% /misc/ernst2
+giora:/datos/giora2               1.8T  1.6T  167G  91% /misc/giora2
+tmpfs                             1.6G   88K  1.6G   1% /run/user/0
+tmpfs                             1.6G   88K  1.6G   1% /run/user/1028
+------------------------------------------------
+172.24.220.118
+rhesus
+Filesystem                      Size  Used Avail Use% Mounted on
+tmpfs                           2.0G  2.4M  2.0G   1% /run
+/dev/sdb2                        69G   57G  7.9G  88% /
+tmpfs                           9.8G  1.4M  9.8G   1% /dev/shm
+tmpfs                           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                        128K   46K   78K  38% /sys/firmware/efi/efivars
+/dev/sdb4                       136G  1.5G  127G   2% /tmp
+/dev/sda1                       496M   56M  440M  12% /boot/efi
+/dev/sda10                      1.4T  1.2T  168G  88% /datos/rhesus
+hahn:/inbssd                    3.7T  3.1T  563G  85% /home/inb
+tmpfs                           2.0G  100K  2.0G   1% /run/user/1000
+mansfield:/datos/mansfield      3.6T  3.3T  130G  97% /misc/mansfield
+arwen:/datos/arwen              909G  824G   40G  96% /misc/arwen
+cajal:/datos/cajal              916G   66G  804G   8% /misc/cajal
+charcot:/datos/charcot2         3.6T  3.2T  240G  94% /misc/charcot2
+charcot:/datos/charcot3         1.8T  1.7T   11G 100% /misc/charcot3
+decker:/datos/decker2           5.5T   32K  5.2T   1% /misc/decker2
+fourier:/datos/fourier          917G  639G  232G  74% /misc/fourier
+fourier:/datos/fourier2         1.8T  773G  968G  45% /misc/fourier2
+geminis:/datos/geminis2         3.6T  3.2T  244G  94% /misc/geminis2
+goddard:/datos/goddard          916G  856G   15G  99% /misc/goddard
+jasper:/datos/jasper            7.3T  775G  6.1T  12% /misc/jasper
+ogawa:/datos/ogawa              440G  413G  4.5G  99% /misc/ogawa
+ogawa:/datos/ogawa2             469G  231G  214G  52% /misc/ogawa2
+ogawa:/datos/ogawa3             469G  380G   65G  86% /misc/ogawa3
+opuntia:/datos/opuntia          1.7T  214G  1.4T  14% /misc/opuntia
+sherrington:/datos/sherrington  1.8T  1.1T  645G  63% /misc/sherrington
+tesla:/datos/tesla1             9.1T  5.5T  3.1T  65% /misc/tesla1
+tesla:/datos/tesla2             9.1T  8.1T  537G  94% /misc/tesla2
+tesla:/datos/tesla3             9.1T  6.0T  2.7T  69% /misc/tesla3
+larmor:/datos/larmor            5.5T  2.2T  3.0T  42% /misc/larmor
+damadian:/datos/damadian        3.6T  2.1T  1.4T  62% /misc/damadian
+opuntia:/datos/opuntia2          15T   40K   14T   1% /misc/opuntia2
+fmenaj:/datos/fmenaj            5.5T   37G  5.2T   1% /misc/fmenaj
+tmpfs                           2.0G  176K  2.0G   1% /run/user/1324
+milagros:/datos/milagros        3.6T  2.2T  1.3T  65% /misc/milagros
+tmpfs                           2.0G   96K  2.0G   1% /run/user/1028
+------------------------------------------------
+172.24.220.119
+mansfield
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           2.4G  3.0M  2.4G   1% /run
+/dev/sda2        64G   59G  2.0G  97% /
+tmpfs            12G   77M   12G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        128K  116K  7.1K  95% /sys/firmware/efi/efivars
+/dev/sde        3.6T  3.3T  130G  97% /datos/mansfield
+/dev/sdc1       7.3T  2.2T  4.8T  31% /datos/arqmconcha
+/dev/sdd1       2.7T   33G  2.6T   2% /misc/mansfield2
+/dev/sda1        48M  6.1M   42M  13% /boot/efi
+/dev/sda3        53G   61M   51G   1% /tmp
+/dev/sdb2       1.8T  1.5T  226G  87% /datos/disco2
+hahn:/inbssd    3.7T  3.1T  563G  85% /home/inb
+tmpfs           2.4G  108K  2.4G   1% /run/user/1000
+tmpfs           2.4G  100K  2.4G   1% /run/user/1135
+tmpfs           2.4G  100K  2.4G   1% /run/user/1253
+tmpfs           2.4G  108K  2.4G   1% /run/user/1115
+tmpfs           2.4G  100K  2.4G   1% /run/user/1270
+tmpfs           2.4G  100K  2.4G   1% /run/user/1262
+tmpfs           2.4G  100K  2.4G   1% /run/user/1044
+tmpfs           2.4G  320K  2.4G   1% /run/user/1333
+tmpfs           2.4G  176K  2.4G   1% /run/user/1294
+tmpfs           2.4G  104K  2.4G   1% /run/user/1049
+tmpfs           2.4G  100K  2.4G   1% /run/user/1012
+tmpfs           2.4G  100K  2.4G   1% /run/user/1028
+------------------------------------------------
+172.24.220.120
+------------------------------------------------
+172.24.220.121
+hahn
+Filesystem                     Size  Used Avail Use% Mounted on
+tmpfs                          3.2G  2.5M  3.2G   1% /run
+efivarfs                       128K  128K     0 100% /sys/firmware/efi/efivars
+/dev/sda2                       69G   31G   35G  47% /
+tmpfs                           16G  1.1M   16G   1% /dev/shm
+tmpfs                          5.0M  8.0K  5.0M   1% /run/lock
+/dev/sdb1                      3.7T  2.6T  1.1T  72% /mnt/SSD1
+/dev/sdc1                      3.7T  3.1T  563G  85% /mnt/SSD0
+/dev/sda1                       47M  6.1M   41M  14% /boot/efi
+/dev/sda4                      136G  7.0M  129G   1% /tmp
+tmpfs                          3.2G  124K  3.2G   1% /run/user/1298
+tmpfs                          3.2G   92K  3.2G   1% /run/user/1331
+tmpfs                          3.2G   92K  3.2G   1% /run/user/1253
+tmpfs                          3.2G   92K  3.2G   1% /run/user/1332
+tmpfs                          3.2G  108K  3.2G   1% /run/user/127
+echinopsis:/datos/echinopsis2  7.3T  664G  6.3T  10% /misc/echinopsis2
+ridelim:/datos/ridelim         916G  746G  125G  86% /misc/ridelim
+tournoux:/datos/tournoux2      3.6T  3.4T   29G 100% /misc/tournoux2
+charcot:/datos/charcot         3.6T  3.3T  121G  97% /misc/charcot
+tesla:/datos/tesla1            9.1T  5.5T  3.1T  65% /misc/tesla1
+mansfield:/datos/mansfield     3.6T  3.3T  130G  97% /misc/mansfield
+lauterbur:/datos/lauterbur2    5.5T  2.0T  3.2T  39% /misc/lauterbur2
+larmor:/datos/larmor2          476G  100G  352G  23% /misc/larmor2
+rhesus:/datos/rhesus           1.4T  1.2T  168G  88% /misc/rhesus
+milagros:/datos/milagros       3.6T  2.2T  1.3T  65% /misc/milagros
+tmpfs                          3.2G   92K  3.2G   1% /run/user/1010
+tmpfs                          3.2G   92K  3.2G   1% /run/user/1028
+------------------------------------------------
+172.24.220.122
+------------------------------------------------
+172.24.220.123
+sherrington
+Filesystem              Size  Used Avail Use% Mounted on
+tmpfs                   2.0G  2.0M  2.0G   1% /run
+/dev/sdc2                69G   59G  6.0G  91% /
+tmpfs                   9.8G  2.2M  9.8G   1% /dev/shm
+tmpfs                   5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                128K   92K   32K  75% /sys/firmware/efi/efivars
+/dev/sdc1                47M  6.1M   41M  14% /boot/efi
+/dev/sdc4               136G   11G  118G   9% /tmp
+/dev/sdb1               1.8T  1.7T     0 100% /datos/sherrington2
+/dev/sda1               1.8T  1.1T  645G  63% /datos/sherrington
+tmpfs                   2.0G   92K  2.0G   1% /run/user/1044
+tmpfs                   2.0G  108K  2.0G   1% /run/user/127
+hahn:/inbssd            3.7T  3.1T  563G  85% /home/inb
+arwen:/datos/arwen      909G  824G   40G  96% /misc/arwen
+ridelim:/datos/ridelim  916G  746G  125G  86% /misc/ridelim
+tmpfs                   2.0G   92K  2.0G   1% /run/user/1028
+------------------------------------------------
+172.24.220.124
+damadian
+Filesystem                       Size  Used Avail Use% Mounted on
+tmpfs                            3.2G  2.7M  3.2G   1% /run
+/dev/sda2                        146G  127G   12G  92% /
+tmpfs                             16G  2.3M   16G   1% /dev/shm
+tmpfs                            5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                         192K  140K   48K  75% /sys/firmware/efi/efivars
+/dev/sdb1                        3.6T  2.1T  1.4T  62% /misc/damadian
+/dev/sda1                        240M  6.1M  234M   3% /boot/efi
+/dev/sda4                        278G  3.5G  260G   2% /tmp
+hahn:/inbssd                     3.7T  3.1T  563G  85% /home/inb
+fourier:/datos/fourier2          1.8T  773G  968G  45% /misc/fourier2
+giora:/datos/giora2              1.8T  1.6T  167G  91% /misc/giora2
+goddard:/datos/goddard           916G  856G   15G  99% /misc/goddard
+jasper:/datos/jasper             7.3T  775G  6.1T  12% /misc/jasper
+ogawa:/datos/ogawa3              469G  380G   65G  86% /misc/ogawa3
+tmpfs                            3.2G   88K  3.2G   1% /run/user/1333
+mansfield:/datos/mansfield       3.6T  3.3T  130G  97% /misc/mansfield
+arwen:/datos/arwen               909G  824G   40G  96% /misc/arwen
+giora:/datos/giora               7.3T  5.9T  1.1T  85% /misc/giora
+mansfield:/datos/mansfield2      2.7T   33G  2.6T   2% /misc/mansfield2
+opuntia:/datos/opuntia           1.7T  214G  1.4T  14% /misc/opuntia
+opuntia:/datos/opuntia2           15T   40K   14T   1% /misc/opuntia2
+ridelim:/datos/ridelim           916G  746G  125G  86% /misc/ridelim
+sherrington:/datos/sherrington2  1.8T  1.7T     0 100% /misc/sherrington2
+tesla:/datos/tesla1              9.1T  5.5T  3.1T  65% /misc/tesla1
+tesla:/datos/tesla2              9.1T  8.1T  537G  94% /misc/tesla2
+tesla:/datos/tesla3              9.1T  6.0T  2.7T  69% /misc/tesla3
+tezca:/datos/tezca               7.3T  1.4T  5.5T  21% /misc/tezca
+tezca:/datos/tezca2              1.8T  1.6T  139G  93% /misc/tezca2
+cannabis:/datos/cannabis2        3.6T  924G  2.5T  27% /misc/cannabis2
+rhesus:/datos/rhesus             1.4T  1.2T  168G  88% /misc/rhesus
+fmenaj:/datos/fmenaj             5.5T   37G  5.2T   1% /misc/fmenaj
+milagros:/datos/milagros         3.6T  2.2T  1.3T  65% /misc/milagros
+tmpfs                            3.2G  220K  3.2G   1% /run/user/1285
+tmpfs                            3.2G  1.8M  3.2G   1% /run/user/1262
+copula2:/datos/copula2           7.3T  614G  6.3T   9% /misc/copula2
+tmpfs                            3.2G   92K  3.2G   1% /run/user/1028
+------------------------------------------------
+172.24.220.125
+ernst
+Filesystem                  Size  Used Avail Use% Mounted on
+tmpfs                       3.2G  2.4M  3.2G   1% /run
+/dev/sda2                    69G   59G  5.8G  92% /
+tmpfs                        16G  1.1M   16G   1% /dev/shm
+tmpfs                       5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                    128K   83K   41K  67% /sys/firmware/efi/efivars
+/dev/sdb1                   3.6T  492G  3.0T  15% /misc/ernst2
+/dev/sda1                    47M  6.1M   41M  14% /boot/efi
+/dev/sda4                   136G  7.8M  129G   1% /tmp
+/dev/sdc2                   1.8T  1.7T  122M 100% /datos/ernst
+hahn:/inbssd                3.7T  3.1T  563G  85% /home/inb
+tmpfs                       3.2G   88K  3.2G   1% /run/user/1332
+cannabis:/datos/cannabis2   3.6T  924G  2.5T  27% /misc/cannabis2
+mansfield:/datos/mansfield  3.6T  3.3T  130G  97% /misc/mansfield
+milagros:/datos/milagros    3.6T  2.2T  1.3T  65% /misc/milagros
+fmenaj:/datos/fmenaj        5.5T   37G  5.2T   1% /misc/fmenaj
+tmpfs                       3.2G  1.7M  3.2G   1% /run/user/1160
+larmor:/datos/larmor        5.5T  2.2T  3.0T  42% /misc/larmor
+damadian:/datos/damadian    3.6T  2.1T  1.4T  62% /misc/damadian
+tmpfs                       3.2G  108K  3.2G   1% /run/user/127
+copula2:/datos/copula2      7.3T  614G  6.3T   9% /misc/copula2
+tmpfs                       3.2G   88K  3.2G   1% /run/user/1028
+------------------------------------------------
+172.24.220.126
+nyquist
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 6.3G  2.8M  6.3G   1% /run
+/dev/nvme0n1p2        117G  101G   11G  91% /
+tmpfs                  32G  339M   32G   2% /dev/shm
+tmpfs                 5.0M  8.0K  5.0M   1% /run/lock
+efivarfs              256K   96K  156K  39% /sys/firmware/efi/efivars
+/dev/nvme0n1p1        509M  6.1M  503M   2% /boot/efi
+/dev/sda1             2.7T  1.4T  1.3T  52% /datos/nyquist2
+/dev/nvme0n1p4        322G   11M  305G   1% /tmp
+/dev/sdb              3.6T  3.1T  384G  89% /datos/nyquist
+hahn:/inbssd          3.7T  3.1T  563G  85% /home/inb
+tmpfs                 6.3G  112K  6.3G   1% /run/user/1028
+tmpfs                 6.3G  120K  6.3G   1% /run/user/1000
+tmpfs                 6.3G  112K  6.3G   1% /run/user/1249
+tmpfs                 6.3G  112K  6.3G   1% /run/user/1135
+tmpfs                 6.3G  112K  6.3G   1% /run/user/1270
+austin:/datos/austin  7.3T  2.7T  4.3T  38% /misc/austin
+tmpfs                 6.3G  112K  6.3G   1% /run/user/1143
+tmpfs                 6.3G  128K  6.3G   1% /run/user/127
+tmpfs                 6.3G  244K  6.3G   1% /run/user/1333
+tmpfs                 6.3G  112K  6.3G   1% /run/user/1302
+------------------------------------------------
+172.24.220.127
+brown
+Filesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              1.6G  2.2M  1.6G   1% /run
+/dev/sda5                           55G   46G  6.9G  87% /
+tmpfs                              7.8G 1004K  7.8G   1% /dev/shm
+tmpfs                              5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                           384K   83K  297K  22% /sys/firmware/efi/efivars
+/dev/sda1                           50M  6.1M   44M  13% /boot/efi
+/dev/sda7                           41G  8.4M   38G   1% /tmp
+tmpfs                              1.6G   92K  1.6G   1% /run/user/5000
+tmpfs                              1.6G  180K  1.6G   1% /run/user/1010
+hahn:/inb                           69G   31G   35G  47% /home/inb
+/dev/mapper/laniremLVM-laniremLVM   33T   22T  9.2T  71% /mnt/LVM
+tmpfs                              1.6G   88K  1.6G   1% /run/user/1028
+------------------------------------------------
+172.24.220.128
+larmor
+Filesystem                       Size  Used Avail Use% Mounted on
+tmpfs                            6.3G  2.9M  6.3G   1% /run
+/dev/sda2                        117G  100G   12G  90% /
+tmpfs                             32G  2.4M   32G   1% /dev/shm
+tmpfs                            5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                         256K  107K  145K  43% /sys/firmware/efi/efivars
+/dev/sda5                        476G  100G  352G  23% /datos/larmor2
+/dev/sdb1                        5.5T  2.2T  3.0T  42% /datos/larmor
+/dev/sda4                        293G  1.6M  278G   1% /tmp
+/dev/sda1                        240M  6.1M  234M   3% /boot/efi
+hahn:/inbssd                     3.7T  3.1T  563G  85% /home/inb
+tmpfs                            6.3G   76K  6.3G   1% /run/user/1270
+tmpfs                            6.3G   84K  6.3G   1% /run/user/1000
+tmpfs                            6.3G   76K  6.3G   1% /run/user/1249
+tmpfs                            6.3G   76K  6.3G   1% /run/user/1139
+tmpfs                            6.3G   76K  6.3G   1% /run/user/1044
+tmpfs                            6.3G  100K  6.3G   1% /run/user/128
+mansfield:/datos/mansfield       3.6T  3.3T  130G  97% /misc/mansfield
+echinopsis:/datos/echinopsis2    7.3T  664G  6.3T  10% /misc/echinopsis2
+tmpfs                            6.3G  104K  6.3G   1% /run/user/1253
+charcot:/datos/charcot           3.6T  3.3T  121G  97% /misc/charcot
+charcot:/datos/charcot2          3.6T  3.2T  240G  94% /misc/charcot2
+charcot:/datos/charcot3          1.8T  1.7T   11G 100% /misc/charcot3
+claustrum:/datos/claustrum       3.6T  3.4T     0 100% /misc/claustrum
+copula:/datos/copula             7.3T  420G  6.5T   6% /misc/copula
+decker:/datos/decker2            5.5T   32K  5.2T   1% /misc/decker2
+dorrance:/datos/dorrance2        5.5T   40K  5.2T   1% /misc/dorrance2
+euler:/datos/euler               3.5T  2.8T  493G  86% /misc/euler
+faraday:/datos/faraday           1.8T  1.3T  405G  77% /misc/faraday
+fourier:/datos/fourier           917G  639G  232G  74% /misc/fourier
+fourier:/datos/fourier2          1.8T  773G  968G  45% /misc/fourier2
+gauss:/datos/gauss               1.8T  1.3T  489G  72% /misc/gauss
+giora:/datos/giora               7.3T  5.9T  1.1T  85% /misc/giora
+giora:/datos/giora2              1.8T  1.6T  167G  91% /misc/giora2
+goddard:/datos/goddard           916G  856G   15G  99% /misc/goddard
+jasper:/datos/jasper             7.3T  775G  6.1T  12% /misc/jasper
+mansfield:/datos/mansfield2      2.7T   33G  2.6T   2% /misc/mansfield2
+nyquist:/datos/nyquist2          2.7T  1.4T  1.3T  52% /misc/nyquist2
+ogawa:/datos/ogawa               440G  413G  4.5G  99% /misc/ogawa
+ogawa:/datos/ogawa2              469G  231G  214G  52% /misc/ogawa2
+ogawa:/datos/ogawa3              469G  380G   65G  86% /misc/ogawa3
+opuntia:/datos/opuntia2           15T   40K   14T   1% /misc/opuntia2
+purcell:/datos/purcell           687G  136G  517G  21% /misc/purcell
+rhesus:/datos/rhesus             1.4T  1.2T  168G  88% /misc/rhesus
+sherrington:/datos/sherrington   1.8T  1.1T  645G  63% /misc/sherrington
+sherrington:/datos/sherrington2  1.8T  1.7T     0 100% /misc/sherrington2
+tesla:/datos/tesla1              9.1T  5.5T  3.1T  65% /misc/tesla1
+tesla:/datos/tesla2              9.1T  8.1T  537G  94% /misc/tesla2
+tesla:/datos/tesla3              9.1T  6.0T  2.7T  69% /misc/tesla3
+tezca:/datos/tezca               7.3T  1.4T  5.5T  21% /misc/tezca
+tezca:/datos/tezca2              1.8T  1.6T  139G  93% /misc/tezca2
+cajal:/datos/cajal               916G   66G  804G   8% /misc/cajal
+maxwell:/datos/maxwell2          1.8T  178G  1.6T  11% /misc/maxwell2
+cannabis:/datos/cannabis2        3.6T  924G  2.5T  27% /misc/cannabis2
+ridelim:/datos/ridelim           916G  746G  125G  86% /misc/ridelim
+milagros:/datos/milagros         3.6T  2.2T  1.3T  65% /misc/milagros
+maxwell:/datos/maxwell           1.8T  1.7T   37G  98% /misc/maxwell
+fmenaj:/datos/fmenaj             5.5T   37G  5.2T   1% /misc/fmenaj
+copula2:/datos/copula2           7.3T  614G  6.3T   9% /misc/copula2
+tmpfs                            6.3G   80K  6.3G   1% /run/user/1028
+------------------------------------------------
+172.24.220.129
+cajal
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.6G  2.0M  1.6G   1% /run
+/dev/sdb2        92G   62G   25G  72% /
+tmpfs           7.8G     0  7.8G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        256K  251K   720 100% /sys/firmware/efi/efivars
+/dev/sda1       916G   66G  804G   8% /datos/cajal
+/dev/sdb3       110G  4.6M  104G   1% /tmp
+/dev/sdb1       509M  6.2M  503M   2% /boot/efi
+hahn:/inbssd    3.7T  3.1T  563G  85% /home/inb
+tmpfs           1.6G  104K  1.6G   1% /run/user/128
+tmpfs           1.6G   88K  1.6G   1% /run/user/1028
+------------------------------------------------
+172.24.220.130
+goddard
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           3.2G  2.4M  3.2G   1% /run
+/dev/nvme0n1p2  110G   83G   22G  80% /
+tmpfs            16G  1.1M   16G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        438K  329K  105K  76% /sys/firmware/efi/efivars
+/dev/nvme0n1p3   92G  8.2M   87G   1% /tmp
+/dev/sda1       916G  856G   15G  99% /datos/goddard
+/dev/nvme0n1p1  509M  6.1M  503M   2% /boot/efi
+hahn:/inbssd    3.7T  3.1T  563G  85% /home/inb
+tmpfs           3.2G   88K  3.2G   1% /run/user/1010
+tmpfs           3.2G  116K  3.2G   1% /run/user/128
+tmpfs           3.2G   92K  3.2G   1% /run/user/1028
+------------------------------------------------
+172.24.220.131
+faraday
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           6.3G  2.6M  6.3G   1% /run
+/dev/nvme0n1p4  281G  172G   95G  65% /
+tmpfs            32G  136K   32G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        438K  186K  247K  43% /sys/firmware/efi/efivars
+/dev/nvme0n1p5  157G  760K  149G   1% /tmp
+/dev/sdb1       1.8T  1.3T  405G  77% /datos/faraday
+/dev/nvme0n1p2   94M  6.1M   88M   7% /boot/efi
+/dev/sda2       5.5T  3.9T  1.3T  76% /misc/faraday2
+tmpfs           6.3G   92K  6.3G   1% /run/user/1000
+hahn:/inbssd    3.7T  3.1T  563G  85% /home/inb
+tmpfs           6.3G  140K  6.3G   1% /run/user/1291
+tmpfs           6.3G   96K  6.3G   1% /run/user/1028
+------------------------------------------------
+172.24.220.132
+------------------------------------------------
+172.24.220.148
+copula
+Filesystem                      Size  Used Avail Use% Mounted on
+tmpfs                           3.2G  2.5M  3.2G   1% /run
+/dev/sda2                        73G   48G   22G  70% /
+tmpfs                            16G  214M   16G   2% /dev/shm
+tmpfs                           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                        120K   67K   49K  59% /sys/firmware/efi/efivars
+/dev/sda1                       507M  6.1M  501M   2% /boot/efi
+/dev/sda4                       119G  306M  113G   1% /tmp
+/dev/sdb1                       7.3T  420G  6.5T   6% /datos/copula
+hahn:/inbssd                    3.7T  3.1T  563G  85% /home/inb
+tmpfs                           3.2G  212K  3.2G   1% /run/user/1246
+tmpfs                           3.2G   92K  3.2G   1% /run/user/1269
+tmpfs                           3.2G  708K  3.2G   1% /run/user/1250
+copula2:/datos/copula2          7.3T  614G  6.3T   9% /misc/copula2
+tmpfs                           3.2G   92K  3.2G   1% /run/user/1010
+jasper:/datos/jasper            7.3T  775G  6.1T  12% /misc/jasper
+ogawa:/datos/ogawa              440G  413G  4.5G  99% /misc/ogawa
+ogawa:/datos/ogawa3             469G  380G   65G  86% /misc/ogawa3
+arwen:/datos/arwen              909G  824G   40G  96% /misc/arwen
+fourier:/datos/fourier          917G  639G  232G  74% /misc/fourier
+cajal:/datos/cajal              916G   66G  804G   8% /misc/cajal
+fourier:/datos/fourier2         1.8T  773G  968G  45% /misc/fourier2
+goddard:/datos/goddard          916G  856G   15G  99% /misc/goddard
+lauterbur:/datos/lauterbur2     5.5T  2.0T  3.2T  39% /misc/lauterbur2
+rhesus:/datos/rhesus            1.4T  1.2T  168G  88% /misc/rhesus
+sherrington:/datos/sherrington  1.8T  1.1T  645G  63% /misc/sherrington
+tmpfs                           3.2G   92K  3.2G   1% /run/user/1028
+------------------------------------------------
+172.24.220.149
+copula2
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.6G  2.5M  1.6G   1% /run
+/dev/sda2        64G   54G  6.4G  90% /
+tmpfs           7.8G  1.1M  7.8G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        120K   83K   33K  72% /sys/firmware/efi/efivars
+/dev/sda1       509M  6.1M  503M   2% /boot/efi
+/dev/sda4       137G  2.2M  130G   1% /tmp
+/dev/sdb1       7.3T  614G  6.3T   9% /misc/copula2
+hahn:/inbssd    3.7T  3.1T  563G  85% /home/inb
+tmpfs           1.6G  236K  1.6G   1% /run/user/1114
+tmpfs           1.6G  172K  1.6G   1% /run/user/1246
+tmpfs           1.6G   92K  1.6G   1% /run/user/1028
+------------------------------------------------
+172.24.220.150
+fmenaj
+Filesystem              Size  Used Avail Use% Mounted on
+tmpfs                    13G  2.4M   13G   1% /run
+/dev/nvme0n1p2          110G   30G   75G  29% /
+tmpfs                    63G   16K   63G   1% /dev/shm
+tmpfs                   5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                128K   65K   59K  53% /sys/firmware/efi/efivars
+/dev/nvme0n1p3           92G   47M   87G   1% /tmp
+/dev/nvme0n1p1          509M  6.1M  503M   2% /boot/efi
+/dev/sda1               5.5T   37G  5.2T   1% /datos/fmenaj
+hahn:/inbssd            3.7T  3.1T  563G  85% /home/inb
+tmpfs                    13G  244K   13G   1% /run/user/1246
+copula2:/datos/copula2  7.3T  614G  6.3T   9% /misc/copula2
+tmpfs                    13G   92K   13G   1% /run/user/1028
+------------------------------------------------
+172.24.220.153
+giora
+Filesystem                   Size  Used Avail Use% Mounted on
+tmpfs                        1.6G  2.1M  1.6G   1% /run
+/dev/sdc2                     73G   61G  8.5G  88% /
+tmpfs                        7.8G  816K  7.8G   1% /dev/shm
+tmpfs                        5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                     120K   68K   48K  59% /sys/firmware/efi/efivars
+/dev/sdb1                    1.8T  1.6T  167G  91% /datos/giora2
+/dev/sdc1                    509M  6.1M  503M   2% /boot/efi
+/dev/sdc3                     92G  684K   87G   1% /tmp
+/dev/sda1                    7.3T  5.9T  1.1T  85% /datos/giora
+hahn:/inbssd                 3.7T  3.1T  563G  85% /home/inb
+zinana:/volume1/data          32T   12T   20T  37% /mnt/zinana
+tmpfs                        1.6G  108K  1.6G   1% /run/user/127
+fourier:/datos/fourier       917G  639G  232G  74% /misc/fourier
+fourier:/datos/fourier2      1.8T  773G  968G  45% /misc/fourier2
+lauterbur:/datos/lauterbur2  5.5T  2.0T  3.2T  39% /misc/lauterbur2
+ogawa:/datos/ogawa           440G  413G  4.5G  99% /misc/ogawa
+ogawa:/datos/ogawa2          469G  231G  214G  52% /misc/ogawa2
+ogawa:/datos/ogawa3          469G  380G   65G  86% /misc/ogawa3
+fmenaj:/datos/fmenaj         5.5T   37G  5.2T   1% /misc/fmenaj
+milagros:/datos/milagros     3.6T  2.2T  1.3T  65% /misc/milagros
+------------------------------------------------
+172.24.220.154
+austin
+Filesystem                       Size  Used Avail Use% Mounted on
+tmpfs                            1.6G  2.1M  1.6G   1% /run
+/dev/sdb2                         69G   58G  7.6G  89% /
+tmpfs                            7.8G  1.9M  7.8G   1% /dev/shm
+tmpfs                            5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                         120K   67K   49K  59% /sys/firmware/efi/efivars
+/dev/sda1                        7.3T  2.7T  4.3T  38% /misc/austin
+/dev/sdb1                         47M  6.1M   41M  14% /boot/efi
+/dev/sdb4                        136G  632K  129G   1% /tmp
+hahn:/inbssd                     3.7T  3.1T  563G  85% /home/inb
+tmpfs                            1.6G  344K  1.6G   1% /run/user/1143
+rhesus:/datos/rhesus             1.4T  1.2T  168G  88% /misc/rhesus
+jasper:/datos/jasper             7.3T  775G  6.1T  12% /misc/jasper
+euler:/datos/euler               3.5T  2.8T  493G  86% /misc/euler
+decker:/datos/decker2            5.5T   32K  5.2T   1% /misc/decker2
+charcot:/datos/charcot3          1.8T  1.7T   11G 100% /misc/charcot3
+charcot:/datos/charcot2          3.6T  3.2T  240G  94% /misc/charcot2
+arwen:/datos/arwen               909G  824G   40G  96% /misc/arwen
+tesla:/datos/tesla3              9.1T  6.0T  2.7T  69% /misc/tesla3
+charcot:/datos/charcot           3.6T  3.3T  121G  97% /misc/charcot
+tournoux:/datos/tournoux2        3.6T  3.4T   29G 100% /misc/tournoux2
+mansfield:/datos/mansfield       3.6T  3.3T  130G  97% /misc/mansfield
+claustrum:/datos/claustrum       3.6T  3.4T     0 100% /misc/claustrum
+copula:/datos/copula             7.3T  420G  6.5T   6% /misc/copula
+dorrance:/datos/dorrance2        5.5T   40K  5.2T   1% /misc/dorrance2
+fourier:/datos/fourier           917G  639G  232G  74% /misc/fourier
+fourier:/datos/fourier2          1.8T  773G  968G  45% /misc/fourier2
+gauss:/datos/gauss               1.8T  1.3T  489G  72% /misc/gauss
+giora:/datos/giora               7.3T  5.9T  1.1T  85% /misc/giora
+giora:/datos/giora2              1.8T  1.6T  167G  91% /misc/giora2
+goddard:/datos/goddard           916G  856G   15G  99% /misc/goddard
+larmor:/datos/larmor             5.5T  2.2T  3.0T  42% /misc/larmor
+lauterbur:/datos/lauterbur2      5.5T  2.0T  3.2T  39% /misc/lauterbur2
+mansfield:/datos/mansfield2      2.7T   33G  2.6T   2% /misc/mansfield2
+maxwell:/datos/maxwell2          1.8T  178G  1.6T  11% /misc/maxwell2
+ogawa:/datos/ogawa               440G  413G  4.5G  99% /misc/ogawa
+ogawa:/datos/ogawa2              469G  231G  214G  52% /misc/ogawa2
+ogawa:/datos/ogawa3              469G  380G   65G  86% /misc/ogawa3
+opuntia:/datos/opuntia           1.7T  214G  1.4T  14% /misc/opuntia
+opuntia:/datos/opuntia2           15T   40K   14T   1% /misc/opuntia2
+penfield:/datos/penfield         1.8T  1.3T  477G  73% /misc/penfield
+purcell:/datos/purcell           687G  136G  517G  21% /misc/purcell
+ridelim:/datos/ridelim           916G  746G  125G  86% /misc/ridelim
+sherrington:/datos/sherrington   1.8T  1.1T  645G  63% /misc/sherrington
+sherrington:/datos/sherrington2  1.8T  1.7T     0 100% /misc/sherrington2
+tesla:/datos/tesla1              9.1T  5.5T  3.1T  65% /misc/tesla1
+tesla:/datos/tesla2              9.1T  8.1T  537G  94% /misc/tesla2
+tezca:/datos/tezca               7.3T  1.4T  5.5T  21% /misc/tezca
+tezca:/datos/tezca2              1.8T  1.6T  139G  93% /misc/tezca2
+faraday:/datos/faraday           1.8T  1.3T  405G  77% /misc/faraday
+cannabis:/datos/cannabis2        3.6T  924G  2.5T  27% /misc/cannabis2
+fmenaj:/datos/fmenaj             5.5T   37G  5.2T   1% /misc/fmenaj
+milagros:/datos/milagros         3.6T  2.2T  1.3T  65% /misc/milagros
+copula2:/datos/copula2           7.3T  614G  6.3T   9% /misc/copula2
+tmpfs                            1.6G   96K  1.6G   1% /run/user/1028
+------------------------------------------------
+172.24.220.155
+tezca
+Filesystem            Size  Used Avail Use% Mounted on
+tmpfs                 3.2G  2.0M  3.2G   1% /run
+/dev/sdc2              92G   79G  7.5G  92% /
+tmpfs                  16G  1.1M   16G   1% /dev/shm
+tmpfs                 5.0M  8.0K  5.0M   1% /run/lock
+/dev/sdb1             7.3T  1.4T  5.5T  21% /datos/tezca
+/dev/sda1             1.8T  1.6T  139G  93% /datos/tezca2
+/dev/sdc1             509M  6.1M  503M   2% /boot/efi
+/dev/sdc3              82G  800K   78G   1% /tmp
+zinana:/volume1/data   32T   12T   20T  37% /mnt/zinana
+hahn:/inbssd          3.7T  3.1T  563G  85% /home/inb
+tmpfs                 3.2G  108K  3.2G   1% /run/user/127
+giora:/datos/giora    7.3T  5.9T  1.1T  85% /misc/giora
+tmpfs                 3.2G   92K  3.2G   1% /run/user/1028
+------------------------------------------------
+172.24.220.158
+tlaloc
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           6.3G  2.8M  6.3G   1% /run
+/dev/nvme0n1p2  110G   50G   55G  48% /
+tmpfs            32G  159M   32G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        438K  364K   70K  84% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  509M  6.1M  503M   2% /boot/efi
+hahn:/inbssd    3.7T  3.1T  563G  85% /home/inb
+tmpfs           6.3G  164K  6.3G   1% /run/user/1255
+tmpfs           6.3G  256K  6.3G   1% /run/user/1350
+tmpfs           6.3G   92K  6.3G   1% /run/user/1028
+------------------------------------------------
+172.24.220.166
+ridelim
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           3.2G  2.3M  3.2G   1% /run
+/dev/sdb2       110G   77G   28G  74% /
+tmpfs            16G   18M   16G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        256K   67K  185K  27% /sys/firmware/efi/efivars
+/dev/sdb1       509M  6.2M  503M   2% /boot/efi
+/dev/sdb3        82G   31M   78G   1% /tmp
+/dev/sda1       916G  746G  125G  86% /misc/ridelim
+hahn:/inbssd    3.7T  3.1T  563G  85% /home/inb
+tmpfs           3.2G  136K  3.2G   1% /run/user/1122
+tmpfs           3.2G  104K  3.2G   1% /run/user/128
+tmpfs           3.2G   88K  3.2G   1% /run/user/1028
+------------------------------------------------
+172.24.220.141
+milagros
+Filesystem              Size  Used Avail Use% Mounted on
+tmpfs                   7.9G  2.9M  7.9G   1% /run
+/dev/nvme0n1p2          110G   93G   12G  89% /
+tmpfs                    40G   46M   40G   1% /dev/shm
+tmpfs                   5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                150K   71K   75K  49% /sys/firmware/efi/efivars
+/dev/nvme0n1p5          207G   28K  197G   1% /datos2
+/dev/nvme0n1p1          509M  6.1M  503M   2% /boot/efi
+/dev/nvme0n1p3          137G   20M  130G   1% /tmp
+/dev/sda1               3.6T  2.2T  1.3T  65% /misc/milagros
+hahn:/inbssd            3.7T  3.1T  563G  85% /home/inb
+tmpfs                   7.9G   92K  7.9G   1% /run/user/1249
+tmpfs                   7.9G  548K  7.9G   1% /run/user/1232
+tmpfs                   7.9G  176K  7.9G   1% /run/user/1326
+tmpfs                   7.9G  164K  7.9G   1% /run/user/1303
+opuntia:/datos/opuntia  1.7T  214G  1.4T  14% /misc/opuntia
+fmenaj:/datos/fmenaj    5.5T   37G  5.2T   1% /misc/fmenaj
+tezca:/datos/tezca      7.3T  1.4T  5.5T  21% /misc/tezca
+copula2:/datos/copula2  7.3T  614G  6.3T   9% /misc/copula2
+tmpfs                   7.9G   92K  7.9G   1% /run/user/1028
+------------------------------------------------
+172.24.220.191
+purcell
+Filesystem                        Size  Used Avail Use% Mounted on
+tmpfs                             786M  2.2M  784M   1% /run
+/dev/sdb5                         137G  118G   13G  91% /
+tmpfs                             3.9G   28M  3.9G   1% /dev/shm
+tmpfs                             5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                          128K   64K   60K  52% /sys/firmware/efi/efivars
+/dev/sdb1                         140M  6.1M  134M   5% /boot/efi
+/dev/sda1                         687G  136G  517G  21% /misc/purcell
+/dev/sdb7                          68G   43M   64G   1% /tmp
+hahn:/inbssd                      3.7T  3.1T  563G  85% /home/inb
+tmpfs                             786M   88K  786M   1% /run/user/1308
+tmpfs                             786M  344K  786M   1% /run/user/1037
+copula:/datos/copula              7.3T  420G  6.5T   6% /misc/copula
+arwen:/datos/arwen                909G  824G   40G  96% /misc/arwen
+charcot:/datos/charcot2           3.6T  3.2T  240G  94% /misc/charcot2
+charcot:/datos/charcot3           1.8T  1.7T   11G 100% /misc/charcot3
+decker:/datos/decker2             5.5T   32K  5.2T   1% /misc/decker2
+fourier:/datos/fourier            917G  639G  232G  74% /misc/fourier
+fourier:/datos/fourier2           1.8T  773G  968G  45% /misc/fourier2
+jasper:/datos/jasper              7.3T  775G  6.1T  12% /misc/jasper
+lauterbur:/datos/lauterbur2       5.5T  2.0T  3.2T  39% /misc/lauterbur2
+ogawa:/datos/ogawa2               469G  231G  214G  52% /misc/ogawa2
+rhesus:/datos/rhesus              1.4T  1.2T  168G  88% /misc/rhesus
+faraday:/datos/faraday2           5.5T  3.9T  1.3T  76% /misc/faraday2
+giora:/datos/giora2               1.8T  1.6T  167G  91% /misc/giora2
+tesla:/datos/tesla2               9.1T  8.1T  537G  94% /misc/tesla2
+sherrington:/datos/sherrington2   1.8T  1.7T     0 100% /misc/sherrington2
+damadian:/datos/damadian          3.6T  2.1T  1.4T  62% /misc/damadian
+echinocactus:/datos/echinocactus  7.3T  116G  6.8T   2% /misc/echinocactus
+tesla:/datos/tesla1               9.1T  5.5T  3.1T  65% /misc/tesla1
+austin:/datos/austin              7.3T  2.7T  4.3T  38% /misc/austin
+mansfield:/datos/mansfield        3.6T  3.3T  130G  97% /misc/mansfield
+opuntia:/datos/opuntia2            15T   40K   14T   1% /misc/opuntia2
+ernst:/datos/ernst                1.8T  1.7T  122M 100% /misc/ernst
+geminis:/datos/geminis            1.8T  1.7T   46G  98% /misc/geminis
+hanger:/datos/hanger2             5.5T 1001M  5.2T   1% /misc/hanger2
+geminis:/datos/geminis2           3.6T  3.2T  244G  94% /misc/geminis2
+gauss:/datos/gauss                1.8T  1.3T  489G  72% /misc/gauss
+maxwell:/datos/maxwell2           1.8T  178G  1.6T  11% /misc/maxwell2
+ogawa:/datos/ogawa3               469G  380G   65G  86% /misc/ogawa3
+maxwell:/datos/maxwell            1.8T  1.7T   37G  98% /misc/maxwell
+claustrum:/datos/claustrum        3.6T  3.4T     0 100% /misc/claustrum
+echinopsis:/datos/echinopsis2     7.3T  664G  6.3T  10% /misc/echinopsis2
+dorrance:/datos/dorrance2         5.5T   40K  5.2T   1% /misc/dorrance2
+tournoux:/datos/tournoux          1.8T  1.7T   32G  99% /misc/tournoux
+giora:/datos/giora                7.3T  5.9T  1.1T  85% /misc/giora
+echinopsis:/datos/echinopsis1     727G   11G  679G   2% /misc/echinopsis1
+larmor:/datos/larmor              5.5T  2.2T  3.0T  42% /misc/larmor
+tournoux:/datos/tournoux2         3.6T  3.4T   29G 100% /misc/tournoux2
+faraday:/datos/faraday            1.8T  1.3T  405G  77% /misc/faraday
+sherrington:/datos/sherrington    1.8T  1.1T  645G  63% /misc/sherrington
+larmor:/datos/larmor2             476G  100G  352G  23% /misc/larmor2
+ridelim:/datos/ridelim            916G  746G  125G  86% /misc/ridelim
+opuntia:/datos/opuntia            1.7T  214G  1.4T  14% /misc/opuntia
+tezca:/datos/tezca                7.3T  1.4T  5.5T  21% /misc/tezca
+ernst:/datos/ernst2               3.6T  492G  3.0T  15% /misc/ernst2
+charcot:/datos/charcot            3.6T  3.3T  121G  97% /misc/charcot
+cajal:/datos/cajal                916G   66G  804G   8% /misc/cajal
+nyquist:/datos/nyquist2           2.7T  1.4T  1.3T  52% /misc/nyquist2
+euler:/datos/euler                3.5T  2.8T  493G  86% /misc/euler
+bruker7:/mnt                      234G  141G   81G  64% /misc/bruker7
+bruker7:/mnt/data02                15T  8.8T  5.0T  64% /misc/bruker7/data02
+tmpfs                             786M   92K  786M   1% /run/user/1028
+------------------------------------------------
+192.168.192.200
+ogawa
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs            13G  3.0M   13G   1% /run
+/dev/sda2       439G  294G  124G  71% /
+tmpfs            63G  223M   63G   1% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+efivarfs        304K  197K  103K  66% /sys/firmware/efi/efivars
+/dev/sdb        440G  413G  4.5G  99% /datos/ogawa
+/dev/sdd1       469G  231G  214G  52% /datos/ogawa2
+/dev/sdc1       469G  380G   65G  86% /misc/ogawa3
+/dev/sda1       511M  6.1M  505M   2% /boot/efi
+hahn:/inbssd    3.7T  3.1T  563G  85% /home/inb
+tmpfs            13G  200K   13G   1% /run/user/1000
+tmpfs            13G   92K   13G   1% /run/user/1012
+tmpfs            13G   92K   13G   1% /run/user/1028
+------------------------------------------------
+172.24.220.202
+opuntia
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           6.3G  2.6M  6.3G   1% /run
+/dev/nvme0n1p2   92G   80G  7.4G  92% /
+tmpfs            32G   56K   32G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        438K  286K  148K  67% /sys/firmware/efi/efivars
+/dev/sda1        15T   36K   14T   1% /datos/opuntia2
+/dev/nvme0n1p5  1.7T  214G  1.4T  14% /datos/opuntia
+/dev/nvme0n1p1  509M  6.1M  503M   2% /boot/efi
+/dev/nvme0n1p3   82G  296K   78G   1% /tmp
+hahn:/inbssd    3.7T  3.1T  563G  85% /home/inb
+tmpfs           6.3G  112K  6.3G   1% /run/user/128
+tmpfs           6.3G   96K  6.3G   1% /run/user/1028
+------------------------------------------------
+172.24.220.201
+echinopsis
+Filesystem              Size  Used Avail Use% Mounted on
+tmpfs                    13G  2.9M   13G   1% /run
+/dev/nvme0n1p2           92G   78G  9.5G  90% /
+tmpfs                    63G     0   63G   0% /dev/shm
+tmpfs                   5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                128K   67K   57K  54% /sys/firmware/efi/efivars
+/dev/nvme0n1p5          727G   11G  679G   2% /datos/echinopsis1
+/dev/nvme0n1p3           82G  836K   78G   1% /tmp
+/dev/sdb2                11T   36K   11T   1% /datos/echinopsis3
+/dev/nvme0n1p1          509M  6.1M  503M   2% /boot/efi
+/dev/sdb1               3.7T   26G  3.7T   1% /mnt/gluster
+/dev/sda1               7.3T  664G  6.3T  10% /datos/echinopsis2
+hahn:/inbssd            3.7T  3.1T  563G  85% /home/inb
+tmpfs                    13G  104K   13G   1% /run/user/1212
+tmpfs                    13G   92K   13G   1% /run/user/1010
+tmpfs                    13G   92K   13G   1% /run/user/1253
+tmpfs                    13G   92K   13G   1% /run/user/1298
+tmpfs                    13G   92K   13G   1% /run/user/1307
+tmpfs                    13G   92K   13G   1% /run/user/1332
+tmpfs                    13G   92K   13G   1% /run/user/1336
+tmpfs                    13G   92K   13G   1% /run/user/1337
+tmpfs                    13G   92K   13G   1% /run/user/1353
+tmpfs                    13G   92K   13G   1% /run/user/1338
+opuntia:/datos/opuntia  1.7T  214G  1.4T  14% /misc/opuntia
+tmpfs                    13G  204K   13G   1% /run/user/1335
+tmpfs                    13G  112K   13G   1% /run/user/128
+tmpfs                    13G   96K   13G   1% /run/user/1028
+------------------------------------------------
+172.24.220.206
+echinocactus
+Filesystem                     Size  Used Avail Use% Mounted on
+tmpfs                           13G  2.5M   13G   1% /run
+/dev/nvme0n1p2                 110G   94G   11G  90% /
+tmpfs                           63G     0   63G   0% /dev/shm
+tmpfs                          5.0M  8.0K  5.0M   1% /run/lock
+efivarfs                       128K   33K   91K  27% /sys/firmware/efi/efivars
+/dev/nvme0n1p1                 509M  6.1M  503M   2% /boot/efi
+/dev/nvme0n1p3                  92G  328K   87G   1% /tmp
+/dev/sda1                      7.3T  116G  6.8T   2% /datos/echinocactus
+hahn:/inbssd                   3.7T  3.1T  563G  85% /home/inb
+tmpfs                           13G   92K   13G   1% /run/user/1253
+tmpfs                           13G  128K   13G   1% /run/user/1298
+tmpfs                           13G   92K   13G   1% /run/user/1331
+tmpfs                           13G   92K   13G   1% /run/user/1307
+tmpfs                           13G  200K   13G   1% /run/user/1336
+tmpfs                           13G   92K   13G   1% /run/user/1353
+tmpfs                           13G  112K   13G   1% /run/user/127
+echinopsis:/datos/echinopsis2  7.3T  664G  6.3T  10% /misc/echinopsis2
+tmpfs                           13G   96K   13G   1% /run/user/1028
+------------------------------------------------
+172.24.220.203
+hanger
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           6.3G  2.7M  6.3G   1% /run
+/dev/nvme0n1p2  110G   62G   42G  60% /
+tmpfs            32G  9.5M   32G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        128K   59K   65K  48% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  509M  6.1M  503M   2% /boot/efi
+/dev/nvme0n1p5  709G   32K  673G   1% /datos
+/dev/sda1       5.5T 1001M  5.2T   1% /datos/hanger2
+/dev/nvme0n1p3   82G  1.5M   78G   1% /tmp
+hahn:/inbssd    3.7T  3.1T  563G  85% /home/inb
+tmpfs           6.3G  216K  6.3G   1% /run/user/1351
+tmpfs           6.3G  208K  6.3G   1% /run/user/1352
+tmpfs           6.3G   96K  6.3G   1% /run/user/1028
+------------------------------------------------
+172.24.220.204
+decker
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           6.3G  2.4M  6.2G   1% /run
+/dev/nvme0n1p2  110G   93G   11G  90% /
+tmpfs            32G  424K   32G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        128K   59K   65K  48% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  509M  6.1M  503M   2% /boot/efi
+/dev/nvme0n1p5  699G   32K  664G   1% /datos/decker1
+/dev/sda1       5.5T   36K  5.2T   1% /datos/decker2
+/dev/nvme0n1p3   92G  109M   87G   1% /tmp
+hahn:/inbssd    3.7T  3.1T  563G  85% /home/inb
+tmpfs           6.3G  108K  6.3G   1% /run/user/128
+tmpfs           6.3G  168K  6.3G   1% /run/user/1352
+tmpfs           6.3G   96K  6.3G   1% /run/user/1028
+------------------------------------------------
+172.24.220.205
+dorrance
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           6.3G  2.5M  6.3G   1% /run
+/dev/nvme0n1p2  110G   61G   44G  58% /
+tmpfs            32G  2.6M   32G   1% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        128K   59K   65K  48% /sys/firmware/efi/efivars
+/dev/nvme0n1p3   92G  6.1M   87G   1% /tmp
+/dev/nvme0n1p5  699G   32K  664G   1% /datos
+/dev/nvme0n1p1  509M  6.1M  503M   2% /boot/efi
+/dev/sda1       5.5T   40K  5.2T   1% /datos/dorrance2
+hahn:/inbssd    3.7T  3.1T  563G  85% /home/inb
+tmpfs           6.3G   92K  6.3G   1% /run/user/1308
+tmpfs           6.3G  180K  6.3G   1% /run/user/1352
+tmpfs           6.3G   96K  6.3G   1% /run/user/1028
